@@ -2,7 +2,7 @@
 
 `markdown
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.e7449f1e-e1d0-4557-85d9-832895266a75.png" alt="School Library Logo" width="150"/>
+  <img src="https://copilot.microsoft.com/th/id" alt="School Library Logo" width="150"/>
 </p>
 
 👋 مرحبًا، أنا moheydevoloper

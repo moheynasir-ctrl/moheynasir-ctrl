@@ -36,5 +36,5 @@
 ---
 
 📜 الترخيص
-MIT License © 2025 moheynasir-ctrl
+Apache License © 2025 moheynasir-ctrl
 
